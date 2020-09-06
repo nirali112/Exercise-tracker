@@ -70,4 +70,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ### Use `npm run dev` command  to  start the backend and frontend concurrently in the main directory.
 
-### In .env file put your MongoDB connection URL.
+### In `.env` file put your MongoDB connection URL.
